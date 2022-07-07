@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi there 👋 I'm [**Erzhamurat Kaldybai uulu**](https://www.linkedin.com/in/erzhanmurat-kaldybai-uulu-026351229/)
 
-<!--
-**Erzhanmurat/Erzhanmurat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](assets/developer.gif)
 
-Here are some ideas to get you started:
+I'm a **Web developer** Having a great passion in both front-end development, Ready for discussions and making new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Currently working at [Nevis_ITDB](https://www.linkedin.com/company/nevis-itdb-tech/)
+- 📫 Contact me: 
+  - ✉️ era.kaldybaev@gmail.com
+  - t.me @era94kg
+# My skills
+![](assets/html.svg)
+![](assets/css.svg)
+![](assets/js.svg)
+![](assets/react.svg)
+![](assets/git.svg)
+![](assets/tailwind.svg)
+![](assets/sass.svg)
+
+
+
