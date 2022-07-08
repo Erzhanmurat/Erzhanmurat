@@ -1,8 +1,9 @@
 ## Hi there 👋 I'm [**Erzhamurat Kaldybai uulu**](https://www.linkedin.com/in/erzhanmurat-kaldybai-uulu-026351229/)
 
+I'm a **Web developer** Having a great passion in both front-end development, Ready for discussions and making new projects.
+
 ![](assets/developer.gif)
 
-I'm a **Web developer** Having a great passion in both front-end development, Ready for discussions and making new projects.
 
 - 💼 Currently working at [Nevis_ITDB](https://www.linkedin.com/company/nevis-itdb-tech/)
 - 📫 Contact me: 
